@@ -1,0 +1,3 @@
+Binomial Heaps:
+http://web.stanford.edu/class/cs166/lectures/05/Slides05.pdf
+http://web.stanford.edu/class/cs166/lectures/05/Small05.pdf
